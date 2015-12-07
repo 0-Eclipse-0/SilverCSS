@@ -1,0 +1,64 @@
+/* SilverCSS Font-Family CSS */
+.sv-family-cursive {
+  font-family: cursive;
+}
+
+.sv-family-csansms {
+  font-family: Comic Sans MS;
+}
+
+.sv-family-impact {
+  font-family: impact;
+}
+
+.sv-family-trebuchetms {
+  font-family: Trebuchet MS;
+}
+
+.sv-family-fantasy {
+  font-family: fantasy;
+}
+
+.sv-family-verdana {
+  font-family: verdana;
+}
+
+.sv-family-serif {
+  font-family: serif;
+}
+
+.sv-family-sserif {
+  font-family: sans-serif;
+}
+
+.sv-family-lsunicode {
+  font-family: Lucida Sans Unicode;
+}
+
+.sv-family-helvetica {
+  font-family: helvetica;
+}
+
+.sv-family-lgrande {
+  font-family: lucida grande;
+}
+
+.sv-family-monospace {
+  font-family: monospace;
+}
+
+.sv-family-cnew {
+  font-family: Courier New;
+}
+
+.sv-family-lconsole {
+  font-family: Lucida Console;
+}
+
+.sv-family-arial {
+  font-family: arial;
+}
+
+.sv-family-arialblack {
+  font-family: arial black;
+}
