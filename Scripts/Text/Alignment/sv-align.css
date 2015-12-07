@@ -1,0 +1,20 @@
+/* SilverCSS Alignment CSS */
+.sv-align-center {
+  text-align: center;
+}
+
+.sv-align-left {
+  text-align: left;
+}
+
+.sv-align-right {
+  text-align: right;
+}
+
+.sv-align-justify {
+  text-align: justify;
+}
+
+.sv-align-inherit {
+  text-align: inherit;
+}
