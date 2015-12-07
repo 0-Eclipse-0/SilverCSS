@@ -1,0 +1,26 @@
+  /// Font Family Info \\\
+
+Prefix = sv-family
+Format = sv-family-name
+Example = sv-family-arial
+
+   /// Suffix Index \\\
+
+    Suffix  |  Family
+    -----------------
+    cursive | Cursive
+    csansms | Comic Sans MS
+     impact | Impact
+trebuchetms | Trebuchet MS
+    fantasy | Fantasy
+    verdana | Verdana
+      serif | Serif
+     sserif | Sans Serif
+  lsunicode | Lucida Sans Unicode
+  helvetica | Helvetica
+    lgrande | Lucida Grande
+  monospace | Monospace
+       cnew | Courier New
+   lconsole | Lucida Console
+      arial | Arial
+ arialblack | Arial Black
