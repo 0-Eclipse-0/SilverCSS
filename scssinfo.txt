@@ -1,0 +1,4 @@
+Name: SilverCSS
+Creators: Matthew Hambrecht
+Version: 1.0.0
+Language: CSS
