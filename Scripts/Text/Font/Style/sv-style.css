@@ -1,0 +1,20 @@
+/* SilverCSS Font-Style CSS*/
+.sv-style-italic {
+  font-style: italic;
+}
+
+.sv-style-oblique {
+  font-style: oblique;
+}
+
+.sv-style-normal {
+  font-style: normal;
+}
+
+.sv-style-inherit {
+  font-style: inherit;
+}
+
+.sv-style-initial {
+  font-style: initial;
+}
