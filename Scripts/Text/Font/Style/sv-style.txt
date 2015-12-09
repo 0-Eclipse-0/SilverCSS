@@ -1,8 +1,9 @@
   /// Font Style Information \\\
 
 Prefix = sv-style
-Suffix = (style)
+Suffix = (style name)
 Example = font-style-inherit
+
 
   /// Suffix List \\\
 
