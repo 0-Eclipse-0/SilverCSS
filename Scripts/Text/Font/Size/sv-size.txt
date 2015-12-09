@@ -4,5 +4,5 @@ Prefix = sv-size
 Suffix = Size(px)
 Example = sv-size-3
 Min Suffix = 1
-Max Suffix = 90
+Max Suffix = 100
 Size = (suffix)px
