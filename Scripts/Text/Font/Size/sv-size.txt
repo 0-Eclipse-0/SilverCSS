@@ -1,0 +1,8 @@
+  /// Font Size Info \\\
+
+Prefix = sv-size
+Suffix = Size(px)
+Example = sv-size-3
+Min Suffix = 1
+Max Suffix = 90
+Size = (suffix)px
