@@ -1,0 +1,13 @@
+  /// Font Style Information \\\
+
+Prefix = sv-style
+Suffix = (style)
+Example = font-style-inherit
+
+  /// Suffix List \\\
+
+-oblique
+-italic
+-initial
+-normal
+-inherit
