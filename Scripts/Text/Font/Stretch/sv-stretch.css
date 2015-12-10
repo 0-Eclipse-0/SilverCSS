@@ -1,0 +1,37 @@
+/* SilverCSS Font-Stretch CSS */
+
+.sv-stretch-condensed {
+  font-stretch: condensed;
+}
+
+.sv-stretch-expanded {
+  font-stretch: expanded;
+}
+
+.sv-stretch-econdensed {
+  font-stretch: extra-condensed;
+}
+
+.sv-stretch-eexpanded {
+  font-stretch: extra-expanded;
+}
+
+.sv-stretch-normal {
+  font-stretch: normal;
+}
+
+.sv-stretch-scondensed {
+  font-stretch: semi-condensed;
+}
+
+.sv-stretch-sexpanded {
+  font-stretch: semi-expanded;
+}
+
+.sv-stretch-ucondensed {
+  font-stretch: ultra-condensed;
+}
+
+.sv-stretch-uexpanded {
+  font-stretch: ultra-expanded;
+}
