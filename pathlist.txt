@@ -1,4 +1,4 @@
-                         /// Path List \\\
+                        //// Path List \\\\
 * Copy these paths to your html file between the head tags (<head></head>) *
 
 <link rel="stylesheet" type="text/css" href="SilverCSS/Scripts/Text/Alignment/sv-align.css">
@@ -7,3 +7,5 @@
 <link rel="stylesheet" type="text/css" href="SilverCSS/Scripts/Text/Font/Stretch/sv-stretch.css">
 <link rel="stylesheet" type="text/css" href="SilverCSS/Scripts/Text/Font/Weights/sv-weight.css">
 <link rel="stylesheet" type="text/css" href="SilverCSS/Scripts/Text/Font/Style/sv-style.css">
+<link rel="stylesheet" type="text/css" href="SilverCSS/Scripts/Text/Font/Kerning/sv-kerning.css">
+<link rel="stylesheet" type="text/css" href="SilverCSS/Scripts/Text/Font/Spacing/sv-spacing.css">
