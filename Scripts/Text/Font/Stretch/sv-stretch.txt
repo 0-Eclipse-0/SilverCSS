@@ -1,0 +1,17 @@
+  /// Font Stretch Info \\\
+
+Prefix = sv-stretch
+Suffix = stretch type
+Example = sv-stretch-condensed
+
+  /// Suffix List \\\
+
+sv-stretch-condensed
+sv-stretch-expanded
+sv-stretch-eexpanded
+sv-stretch-econdensed
+sv-stretch-normal
+sv-stretch-uexpanded
+sv-stretch-ucondensed
+sv-stretch-sexpanded
+sv-stretch-scondensed
