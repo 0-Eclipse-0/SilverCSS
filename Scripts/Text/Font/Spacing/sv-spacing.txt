@@ -1,0 +1,28 @@
+  /// Letter Spacing Info \\\
+
+prefix = sv-spacing
+suffix = spacing amount
+format = sv-spacing-ammount
+example = sv-spacing-p10d5
+
+  /// Suffix Info \\\
+
+n = negative
+p = positive
+d = decimal
+min = -10.5px/n10d5
+max = 10.5px/p10d5
+min/d = .5px
+max/d = .5px
+min/n = 0
+max/n = 10
+min/p = 0
+max/p = 10
+suffix format = (n/p)(1-10)(d/if one)(5)
+
+  /// Suffix List \\\
+
+* No parentheses *
+sv-spacing-inherit
+sv-spacing-normal
+sv-spacing-(n/p)(1-10 or blank)(d/if one)(5)
