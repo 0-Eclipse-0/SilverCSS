@@ -10,8 +10,8 @@ Interval = 25 (Only weights counting by 25 to 900)
 
   /// Suffix List \\\
 
--bold
--bolder
--lighter
--normal
--number (25-900 by 25)
+- bold
+- bolder
+- lighter
+- normal
+- number (25-900 by 25)
