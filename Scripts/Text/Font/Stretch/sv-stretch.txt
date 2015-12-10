@@ -6,12 +6,12 @@ Example = sv-stretch-condensed
 
   /// Suffix List \\\
 
-sv-stretch-condensed
-sv-stretch-expanded
-sv-stretch-eexpanded
-sv-stretch-econdensed
-sv-stretch-normal
-sv-stretch-uexpanded
-sv-stretch-ucondensed
-sv-stretch-sexpanded
-sv-stretch-scondensed
+- condensed
+- expanded
+- eexpanded
+- econdensed
+- normal
+- uexpanded
+- ucondensed
+- sexpanded
+- scondensed
