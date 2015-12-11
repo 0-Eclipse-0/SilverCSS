@@ -1,0 +1,13 @@
+/* SilverCSS Kerning CSS */
+
+.sv-kerning-auto {
+  font-kerning: auto;
+}
+
+.sv-kerning-none {
+  font-kerning: none;
+}
+
+.sv-kerning-normal {
+  font-kerning: normal;
+}
