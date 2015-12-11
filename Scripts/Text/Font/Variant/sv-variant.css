@@ -1,0 +1,73 @@
+/* SilverCSS Variant CSS */
+
+.sv-variant-normal {
+  font-variant: normal;
+}
+
+.sv-variant-inherit {
+  font-variant: inherit;
+}
+
+.sv-variant-scaps {
+  font-variant: small-caps;
+}
+
+.sv-variant-lnormal {
+  font-variant-ligatures: normal;
+}
+
+.sv-variant-lnone {
+  font-variant-ligatures: none;
+}
+
+.sv-variant-cnormal {
+  font-variant-caps: normal;
+}
+
+.sv-variant-csmall {
+  font-variant-caps: small-caps;
+}
+
+.sv-variant-acsmall {
+  font-variant-caps: all-small-caps;
+}
+
+.sv-variant-cpetite {
+  font-variant-caps: petite-caps;
+}
+
+.sv-variant-acpetite {
+  font-variant-caps: all-petite-caps;
+}
+
+.sv-variant-unicase {
+  font-variant-caps: unicase;
+}
+
+.sv-variant-ctitling {
+  font-variant-caps: titling-caps;
+}
+
+.sv-variant-anormal {
+  font-variant-alternates: normal;
+}
+
+.sv-variant-eanormal {
+  font-variant-east-asian: normal;
+}
+
+.sv-variant-nnormal {
+  font-variant-numeric: normal;
+}
+
+.sv-variant-pnormal {
+  font-variant-position: normal;
+}
+
+.sv-variant-psub {
+  font-variant-position: sub;
+}
+
+.sv-variant-psuper {
+  font-variant-position: super;
+}
