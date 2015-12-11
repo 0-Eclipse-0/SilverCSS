@@ -1,0 +1,29 @@
+  /// Font Variant Info \\\
+
+Prefix = sv-variant
+Suffix = Variant
+Example = sv-variant-psub
+Format = sv-variant-variant
+
+  /// Suffix List \\\
+
+    Suffix | Variant
+    -------|--------
+    normal | normal
+   inherit | inherit
+     scaps | small-caps
+   lnormal | ligatures normal
+     lnone | ligatures none
+   cnormal | caps normal
+    csmall | caps small-caps
+   acsmall | caps all-small-caps
+   cpetite | caps petite-caps
+  acpetite | caps all-petite-caps
+   unicase | caps unicase
+  ctitling | caps titling
+   anormal | alternates normal
+  eanormal | east-asian normal
+   nnormal | numeric normal
+   pnormal | position normal
+      psub | position sub
+    psuper | position super
