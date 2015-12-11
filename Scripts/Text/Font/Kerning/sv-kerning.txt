@@ -1,0 +1,12 @@
+  /// Font Kerning Info \\\
+
+Prefix = sv-kerning
+Suffix = type
+Example = sv-kerning-auto
+Format = sv-kerning-type
+
+  /// Suffix List \\\
+
+- auto
+- none
+- normal
