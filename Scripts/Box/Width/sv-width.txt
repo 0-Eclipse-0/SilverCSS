@@ -1,1 +1,14 @@
+  /// Box Width Info \\\
 
+Prefix = sv-width
+Suffix = width amount
+Example = sv-width-219
+Format = sv-width-amount
+Min = (1)px
+Max = (5000)px
+
+  /// Suffix List \\\
+
+- (1-5000)px
+- inherit
+- auto
