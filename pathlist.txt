@@ -11,6 +11,8 @@
 <link rel="stylesheet" type="text/css" href="SilverCSS/Scripts/Text/Font/Spacing/sv-spacing.css">
 <link rel="stylesheet" type="text/css" href="SilverCSS/Scripts/Text/Font/Variant/sv-variant.css">
 <link rel="stylesheet" type="text/css" href="SilverCSS/Scripts/Text/Font/Synthesis/sv-synthesis.css">
+<link rel="stylesheet" type="text/css" href="SilverCSS/Scripts/Box/Height/sv-height.css">
+<link rel="stylesheet" type="text/css" href="SilverCSS/Scripts/Box/Width/sv-width.css">
 
 
 ********* Compressed script WIP as is the whole project! **********
