@@ -1,4 +1,4 @@
-                        //// Path List \\\\
+                                              //// Path List \\\\
 * Copy these paths to your html file between the head tags (<head></head>) *
 
 <link rel="stylesheet" type="text/css" href="SilverCSS/Scripts/Text/Alignment/sv-align.css">
@@ -10,3 +10,8 @@
 <link rel="stylesheet" type="text/css" href="SilverCSS/Scripts/Text/Font/Kerning/sv-kerning.css">
 <link rel="stylesheet" type="text/css" href="SilverCSS/Scripts/Text/Font/Spacing/sv-spacing.css">
 <link rel="stylesheet" type="text/css" href="SilverCSS/Scripts/Text/Font/Variant/sv-variant.css">
+<link rel="stylesheet" type="text/css" href="SilverCSS/Scripts/Text/Font/Synthesis/sv-synthesis.css">
+
+
+********* Compressed script WIP as is the whole project! **********
+********* Remove file SilverCSS-master but first move SilverCSS out of SilverCSS-master and into your project file for any of the paths to work*********
