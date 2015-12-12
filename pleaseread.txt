@@ -1,0 +1,4 @@
+As I said in scssinfo.txt, SilverCSS is a CSS library that adds tons of customization to your website without the need to know very much CSS.
+If you look in some of the CSS documents you may see that some CSS class configurations are the same as others, or have the value none/normal. I added those to fit the customization concept. Some uses for them are if you have a div tag with classes you don't want to effect the tags
+in between the div tags all you have to do is set the class of the chosen classes to none and the div class wont effect the inner tags if you get
+what I'm saying. Customization is key for SilverCSS so I am adding every configuration possible.
