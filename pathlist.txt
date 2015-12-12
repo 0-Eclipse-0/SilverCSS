@@ -13,7 +13,9 @@
 <link rel="stylesheet" type="text/css" href="SilverCSS/Scripts/Text/Font/Synthesis/sv-synthesis.css">
 <link rel="stylesheet" type="text/css" href="SilverCSS/Scripts/Box/Height/sv-height.css">
 <link rel="stylesheet" type="text/css" href="SilverCSS/Scripts/Box/Width/sv-width.css">
-
+<link rel="stylesheet" type="text/css" href="SilverCSS/Scripts/Color/Text/sv-tcolor.css">
+<link rel="stylesheet" type="text/css" href="SilverCSS/Scripts/Color/Background/sv-bgcolor.css">
+<link rel="stylesheet" type="text/css" href="SilverCSS/Scripts/Color/Border/sv-bordcolor.css">
 
 ********* Compressed script WIP as is the whole project! **********
 ********* Remove file SilverCSS-master but first move SilverCSS out of SilverCSS-master and into your project file for any of the paths to work*********
