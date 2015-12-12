@@ -1,1 +1,15 @@
+  /// Box Height Info \\\
+
+Prefix = sv-height
+Suffix = height amount
+Example = sv-height-219
+Format = sv-height-amount
+Min = (1)px
+Max = (5000)px
+
+  /// Suffix List \\\
+
+- (1-5000)px
+- inherit
+- auto
 
