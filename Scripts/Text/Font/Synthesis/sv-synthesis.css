@@ -1,0 +1,13 @@
+/* SilverCSS Font Synthesis CSS */
+
+.sv-synthesis-weight {
+  font-synthesis: weight;
+}
+
+.sv-synthesis-auto {
+  font-synthesis: auto;
+}
+
+.sv-synthesis-none {
+  font-synthesis: none;
+}
