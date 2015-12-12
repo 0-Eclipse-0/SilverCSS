@@ -1,1 +1,570 @@
+/* SilverCSS Border Color CSS */
+
+.sv-bordcolor-inherit {
+  border: inherit;
+}
+
+.sv-bordcolor-F0F8FF {
+  border: #F0F8FF;
+}
+
+.sv-bordcolor-FAEBD7 {
+  border: #FAEBD7;
+}
+
+.sv-bordcolor-00FFFF {
+  border: #00FFFF;
+}
+
+.sv-bordcolor-7FFFD4 {
+  border: #7FFFD4;
+}
+
+.sv-bordcolor-F0FFFF {
+  border: #F0FFFF;
+}
+
+.sv-bordcolor-F5F5DC {
+  border: #F5F5DC;
+}
+
+.sv-bordcolor-FFE4C4 {
+  border: #FFE4C4;
+}
+
+.sv-bordcolor-000000 {
+  border: #000000;
+}
+
+.sv-bordcolor-FFEBCD {
+  border: #FFEBCD;
+}
+
+.sv-bordcolor-0000FF {
+  border: #0000FF;
+}
+
+.sv-bordcolor-8A2BE2 {
+  border: #8A2BE2;
+}
+
+.sv-bordcolor-A52A2A {
+  border: #A52A2A;
+}
+
+.sv-bordcolor-DEB887 {
+  border: #DEB887;
+}
+
+.sv-bordcolor-5F9EA0 {
+  border: #5F9EA0;
+}
+
+.sv-bordcolor-7FFF00 {
+  border: #7FFF00;
+}
+
+.sv-bordcolor-D2691E {
+  border: #D2691E;
+}
+
+.sv-bordcolor-FF7F50 {
+  border: #FF7F50;
+}
+
+.sv-bordcolor-6495ED {
+  border: #6495ED;
+}
+
+.sv-bordcolor-FFF8DC {
+  border: #FFF8DC;
+}
+
+.sv-bordcolor-DC143C {
+  border: #DC143C;
+}
+
+.sv-bordcolor-00FFFF {
+  border: #00FFFF;
+}
+
+.sv-bordcolor-00008B {
+  border: #00008B;
+}
+
+.sv-bordcolor-008B8B {
+  border: #008B8B;
+}
+
+.sv-bordcolor-B8860B {
+  border: #B8860B;
+}
+
+.sv-bordcolor-A9A9A9 {
+  border: #A9A9A9;
+}
+
+.sv-bordcolor-006400 {
+  border: #006400;
+}
+
+.sv-bordcolor-BDB76B {
+  border: #BDB76B;
+}
+
+.sv-bordcolor-8B008B {
+  border: #8B008B;
+}
+
+.sv-bordcolor-556B2F {
+  border: #556B2F;
+}
+
+.sv-bordcolor-FF8C00 {
+  border: #FF8C00;
+}
+
+.sv-bordcolor-9932CC {
+  border: #9932CC;
+}
+
+.sv-bordcolor-8B0000 {
+  border: #8B0000;
+}
+
+.sv-bordcolor-E9967A {
+  border: #E9967A;
+}
+
+.sv-bordcolor-8FBC8F {
+  border: #8FBC8F;
+}
+
+.sv-bordcolor-483D8B {
+  border: #483D8B;
+}
+
+.sv-bordcolor-2F4F4F {
+  border: #2F4F4F;
+}
+
+.sv-bordcolor-00CED1 {
+  border: #00CED1;
+}
+
+.sv-bordcolor-9400D3 {
+  border: #9400D3;
+}
+
+.sv-bordcolor-FF1493 {
+  border: #FF1493;
+}
+
+.sv-bordcolor-00BFFF {
+  border: #00BFFF;
+}
+
+.sv-bordcolor-696969 {
+  border: #696969;
+}
+
+.sv-bordcolor-1E90FF {
+  border: #1E90FF;
+}
+
+.sv-bordcolor-B22222 {
+  border: #B22222;
+}
+
+.sv-bordcolor-FFFAF0 {
+  border: #FFFAF0;
+}
+
+.sv-bordcolor-228B22 {
+  border: #228B22;
+}
+
+.sv-bordcolor-FF00FF {
+  border: #FF00FF;
+}
+
+.sv-bordcolor-DCDCDC {
+  border: #DCDCDC;
+}
+
+.sv-bordcolor-F8F8FF {
+  border: #F8F8FF;
+}
+
+.sv-bordcolor-FFD700 {
+  border: #FFD700;
+}
+
+.sv-bordcolor-DAA520 {
+  border: #DAA520;
+}
+
+.sv-bordcolor-808080 {
+  border: #808080;
+}
+
+.sv-bordcolor-008000 {
+  border: #008000;
+}
+
+.sv-bordcolor-ADFF2F {
+  border: #ADFF2F;
+}
+
+.sv-bordcolor-F0FFF0 {
+  border: #F0FFF0;
+}
+
+.sv-bordcolor-FF69B4 {
+  border: #FF69B4;
+}
+
+.sv-bordcolor-CD5C5C {
+  border: #CD5C5C;
+}
+
+.sv-bordcolor-4B0082 {
+  border: #4B0082;
+}
+
+.sv-bordcolor-FFFFF0 {
+  border: #FFFFF0;
+}
+
+.sv-bordcolor-F0E68C {
+  border: #F0E68C;
+}
+
+.sv-bordcolor-E6E6FA {
+  border: #E6E6FA;
+}
+
+.sv-bordcolor-FFF0F5 {
+  border: #FFF0F5;
+}
+
+.sv-bordcolor-7CFC00 {
+  border: #7CFC00;
+}
+
+.sv-bordcolor-FFFACD {
+  border: #FFFACD;
+}
+
+.sv-bordcolor-ADD8E6 {
+  border: #ADD8E6;
+}
+
+.sv-bordcolor-F08080 {
+  border: #F08080;
+}
+
+.sv-bordcolor-E0FFFF {
+  border: #E0FFFF;
+}
+
+.sv-bordcolor-FAFAD2 {
+  border: #FAFAD2;
+}
+
+.sv-bordcolor-D3D3D3 {
+  border: #D3D3D3;
+}
+
+.sv-bordcolor-90EE90 {
+  border: #90EE90;
+}
+
+.sv-bordcolor-FFB6C1 {
+  border: #FFB6C1;
+}
+
+.sv-bordcolor-FFA07A {
+  border: #FFA07A;
+}
+
+.sv-bordcolor-20B2AA {
+  border: #20B2AA;
+}
+
+.sv-bordcolor-87CEFA {
+  border: #87CEFA;
+}
+
+.sv-bordcolor-778899 {
+  border: #778899;
+}
+
+.sv-bordcolor-B0C4DE {
+  border: #B0C4DE;
+}
+
+.sv-bordcolor-FFFFE0 {
+  border: #FFFFE0;
+}
+
+.sv-bordcolor-00FF00 {
+  border: #00FF00;
+}
+
+.sv-bordcolor-32CD32 {
+  border: #32CD32;
+}
+
+.sv-bordcolor-FAF0E6 {
+  border: #FAF0E6;
+}
+
+.sv-bordcolor-FF00FF {
+  border: #FF00FF;
+}
+
+.sv-bordcolor-800000 {
+  border: #800000;
+}
+
+.sv-bordcolor-66CDAA {
+  border: #66CDAA;
+}
+
+.sv-bordcolor-0000CD {
+  border: #0000CD;
+}
+
+.sv-bordcolor-BA55D3 {
+  border: #BA55D3;
+}
+
+.sv-bordcolor-9370DB {
+  border: #9370DB;
+}
+
+.sv-bordcolor-3CB371 {
+  border: #3CB371;
+}
+
+.sv-bordcolor-7B68EE {
+  border: #7B68EE;
+}
+
+.sv-bordcolor-00FA9A {
+  border: #00FA9A;
+}
+
+.sv-bordcolor-48D1CC {
+  border: #48D1CC;
+}
+
+.sv-bordcolor-C71585 {
+  border: #C71585;
+}
+
+.sv-bordcolor-191970 {
+  border: #191970;
+}
+
+.sv-bordcolor-F5FFFA {
+  border: #F5FFFA;
+}
+
+.sv-bordcolor-FFE4E1 {
+  border: #FFE4E1;
+}
+
+.sv-bordcolor-FFE4B5 {
+  border: #FFE4B5;
+}
+
+.sv-bordcolor-FFDEAD {
+  border: #FFDEAD;
+}
+
+.sv-bordcolor-000080 {
+  border: #000080;
+}
+
+.sv-bordcolor-FDF5E6 {
+  border: #FDF5E6;
+}
+
+.sv-bordcolor-808000 {
+  border: #808000;
+}
+
+.sv-bordcolor-6B8E23 {
+  border: #6B8E23;
+}
+
+.sv-bordcolor-FFA500 {
+  border: #FFA500;
+}
+
+.sv-bordcolor-FF4500 {
+  border: #FF4500;
+}
+
+.sv-bordcolor-DA70D6 {
+  border: #DA70D6;
+}
+
+.sv-bordcolor-EEE8AA {
+  border: #EEE8AA;
+}
+
+.sv-bordcolor-98FB98 {
+  border: #98FB98;
+}
+
+.sv-bordcolor-AFEEEE {
+  border: #AFEEEE;
+}
+
+.sv-bordcolor-DB7093 {
+  border: #DB7093;
+}
+
+.sv-bordcolor-FFEFD5 {
+  border: #FFEFD5;
+}
+
+.sv-bordcolor-FFDAB9 {
+  border: #FFDAB9;
+}
+
+.sv-bordcolor-CD853F {
+  border: #CD853F;
+}
+
+.sv-bordcolor-FFC0CB {
+  border: #FFC0CB;
+}
+
+.sv-bordcolor-DDA0DD {
+  border: #DDA0DD;
+}
+
+.sv-bordcolor-B0E0E6 {
+  border: #B0E0E6;
+}
+
+.sv-bordcolor-800080 {
+  border: #800080;
+}
+
+.sv-bordcolor-663399 {
+  border: #663399;
+}
+
+.sv-bordcolor-FF0000 {
+  border: #FF0000;
+}
+
+.sv-bordcolor-BC8F8F {
+  border: #BC8F8F;
+}
+
+.sv-bordcolor-4169E1 {
+  border: #4169E1;
+}
+
+.sv-bordcolor-8B4513 {
+  border: #8B4513;
+}
+
+.sv-bordcolor-FA8072 {
+  border: #FA8072;
+}
+
+.sv-bordcolor-F4A460 {
+  border: #F4A460;
+}
+
+.sv-bordcolor-2E8B57 {
+  border: #2E8B57;
+}
+
+.sv-bordcolor-FFF5EE {
+  border: #FFF5EE;
+}
+
+.sv-bordcolor-A0522D {
+  border: #A0522D;
+}
+
+.sv-bordcolor-C0C0C0 {
+  border: #C0C0C0;
+}
+
+.sv-bordcolor-87CEEB {
+  border: #87CEEB;
+}
+
+.sv-bordcolor-6A5ACD {
+  border: #6A5ACD;
+}
+
+.sv-bordcolor-708090 {
+  border: #708090;
+}
+
+.sv-bordcolor-FFFAFA {
+  border: #FFFAFA;
+}
+
+.sv-bordcolor-00FF7F {
+  border: #00FF7F;
+}
+
+.sv-bordcolor-4682B4 {
+  border: #4682B4;
+}
+
+.sv-bordcolor-D2B48C {
+  border: #D2B48C;
+}
+
+.sv-bordcolor-008080 {
+  border: #008080;
+}
+
+.sv-bordcolor-D8BFD8 {
+  border: #D8BFD8;
+}
+
+.sv-bordcolor-FF6347 {
+  border: #FF6347;
+}
+
+.sv-bordcolor-40E0D0 {
+  border: #40E0D0;
+}
+
+.sv-bordcolor-EE82EE {
+  border: #EE82EE;
+}
+
+.sv-bordcolor-F5DEB3 {
+  border: #F5DEB3;
+}
+
+.sv-bordcolor-FFFFFF {
+  border: #FFFFFF;
+}
+
+.sv-bordcolor-F5F5F5 {
+  border: #F5F5F5;
+}
+
+.sv-bordcolor-9ACD32 {
+  border: #9ACD32;
+}
+
+.sv-bordcolor-FFFF00 {
+  border: #FFFF00;
+}
 
