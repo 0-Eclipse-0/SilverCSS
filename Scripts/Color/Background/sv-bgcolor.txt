@@ -1,1 +1,11 @@
+  /// Background Color Info \\\
 
+Prefix = sv-bgcolor
+Suffix = color
+Example = sv-bgcolor-FFA07A
+Format = sv-bgcolor-color
+
+  /// Suffix List \\\
+
+- Read colortable.txt
+- inherit
