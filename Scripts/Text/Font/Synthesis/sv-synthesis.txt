@@ -1,0 +1,12 @@
+  /// Font Synthesis Info \\\
+
+Prefix = sv-synthesis
+Suffix = synthesis type
+Example = sv-synthesis-auto
+Format = sv-synthesis-suffix
+
+  /// Suffix List \\\
+
+- auto
+- weight
+- none
