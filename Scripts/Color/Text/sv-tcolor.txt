@@ -1,0 +1,11 @@
+  /// Text Color Info \\\
+
+Prefix = sv-tcolor
+Suffix = color
+Example = sv-tcolor-FFA07A
+Format = sv-tcolor-color
+
+  /// Suffix List \\\
+
+- Read colortable.txt
+- inherit
