@@ -1,1 +1,11 @@
+  /// Border Color Info \\\
 
+Prefix = sv-bordcolor
+Suffix = color
+Example = sv-bordcolor-FFA07A
+Format = sv-bordcolor-color
+
+  /// Suffix List \\\
+
+- Read colortable.txt
+- inherit
